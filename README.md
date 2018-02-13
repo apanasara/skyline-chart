@@ -1,4 +1,4 @@
-# skyline-chart
+# Skyline-Chart rendering to Chart-in-Chart
 VBA Application which uses Excel Stack Chart &amp; renderinng skyline chart (like 'Chart-in-Chart')
 
 Download Exmaple file to get idea about Skyline Chart
