@@ -3,9 +3,9 @@ VBA Application which uses Excel Stack Chart &amp; renderinng skyline chart (lik
 
 Download Exmaple file to get idea about Skyline Chart
 
-![Chart-in-Chart](https://github.com/apanasara/skyline-chart/blob/master/Chart-in-Chart.jpg)
+![Chart-in-Chart](https://github.com/apanasara/skyline-chart/blob/master/Demo/Images/Chart-in-Chart.jpg)
 
-![Legend List](https://github.com/apanasara/skyline-chart/blob/master/Legend%20List.JPG)
+![Legend List](https://github.com/apanasara/skyline-chart/blob/master/Demo/Images/Legend%20List.JPG)
 
 # Example of Visualisation for Project Control
 
