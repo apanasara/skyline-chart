@@ -3,16 +3,17 @@ VBA Application which uses Excel Stack Chart &amp; renderinng skyline chart (lik
 
 Download Exmaple file to get idea about Skyline Chart
 
-![Chart-in-Chart](https://github.com/apanasara/skyline-chart/blob/master/Demo/Images/Chart-in-Chart.jpg)
-
-![Legend List](https://github.com/apanasara/skyline-chart/blob/master/Demo/Images/Legend%20List.JPG)
-
 # Example of Visualisation for Project Control
 
 Project skyline chart is an important tool to track the progress of the project. After the Project planning schedule is
 fixed, the skyline chart should be developed. Well, in very simple terms, it is a bar chart that is used to illustrate a variety of details about any project starting from construction till commissioning, such as when is should be started and completed, and how many checksheets are included as part of it. It is a dynamic chart which will show the progress as and when the work is completed at project site.
+![Project Progress Tracking Excel File](https://github.com/apanasara/skyline-chart/blob/master/Demo/Excel%20Files/Example%201%20-%20Project%20Complition%20Certification%20Tracking.xlsm) 
 
- 
+
+![Chart-in-Chart](https://github.com/apanasara/skyline-chart/blob/master/Demo/Images/Chart-in-Chart.jpg)
+
+![Legend List](https://github.com/apanasara/skyline-chart/blob/master/Demo/Images/Legend%20List.JPG)
+
 By using a Skyline Chart, it becomes easier for any project management team to ensure that things are going ahead as planned, and that any individual activities that make up part of the project are completed in the right sequence, thus bringing the project further towards completion.
 
   # Skyline Chart Benefits
