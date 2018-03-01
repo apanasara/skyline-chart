@@ -7,7 +7,7 @@ Download Exmaple file to get idea about Skyline Chart
 
 Project skyline chart is an important tool to track the progress of the project. After the Project planning schedule is
 fixed, the skyline chart should be developed. Well, in very simple terms, it is a bar chart that is used to illustrate a variety of details about any project starting from construction till commissioning, such as when is should be started and completed, and how many checksheets are included as part of it. It is a dynamic chart which will show the progress as and when the work is completed at project site.
-![Project Progress Tracking Excel File](https://github.com/apanasara/skyline-chart/blob/master/Demo/Excel%20Files/Example%201%20-%20Project%20Complition%20Certification%20Tracking.xlsm) 
+![Click here to download demo excel file](https://github.com/apanasara/skyline-chart/blob/master/Demo/Excel%20Files/Example%201%20-%20Project%20Complition%20Certification%20Tracking.xlsm) 
 
 
 ![Chart-in-Chart](https://github.com/apanasara/skyline-chart/blob/master/Demo/Images/Chart-in-Chart.jpg)
