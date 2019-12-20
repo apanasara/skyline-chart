@@ -16,7 +16,7 @@ fixed, the skyline chart should be developed. Well, in very simple terms, it is 
 
 By using a Skyline Chart, it becomes easier for any project management team to ensure that things are going ahead as planned, and that any individual activities that make up part of the project are completed in the right sequence, thus bringing the project further towards completion.
 
-  # Skyline Chart Benefits
+# Skyline Chart Benefits
  
 There are several advantages to using a Skyline Chart, including the following:
 
@@ -31,7 +31,7 @@ easily
 5. Skyline chart also takes into account the tasks that can be completed together, and
 others that need to be done in sequence.
 
- # Application-usage
+# Application-usage
 
 Overall, the Skyline Chart can be used by a variety of Project professionals and in a variety of circumstances, including
 these:
